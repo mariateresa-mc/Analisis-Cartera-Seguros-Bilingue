@@ -8,6 +8,10 @@ Puedes descargar el archivo original para examinarlo en detalle:
 
 ---
 
+### 📊 1. Cuadro de Mando Ejecutivo
+Aquí se muestran los principales KPIs (Ingresos, Margen y Beneficio) junto con la evolución mensual por compañía.
+
+
 ## 🖼️ Capturas del Informe
 <img width="1442" height="782" alt="Captura de pantalla 2025-12-02 103032" src="https://github.com/user-attachments/assets/49d844cb-9d22-4222-90d2-e07919ee14af" />
 
