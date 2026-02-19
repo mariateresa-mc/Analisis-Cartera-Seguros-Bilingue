@@ -11,10 +11,16 @@ Puedes descargar el archivo original para examinarlo en detalle:
 ## 🖼️ Capturas del Informe
 
 ### 1. Resumen Ejecutivo (Executive Summary)
-![Resumen Ejecutivo](Captura%20de%20pantalla%202026-02-19%20105436.png)
+<img src="Captura de pantalla 2026-02-19 105436.png" width="100%">
+*Enfoque en KPIs principales: Ingresos totales, Margen y Evolución mensual.*
 
-### 2. Análisis de Rentabilidad
-![Rentabilidad](Captura%20de%20pantalla%202026-02-19%20105319.png)
+### 2. Análisis de Rentabilidad Geográfica
+<img src="Captura de pantalla 2026-02-19 105319.png" width="100%">
+*Distribución de ingresos por provincia y ranking de rentabilidad.*
+
+### 3. Detalle de Clientes y Renovaciones
+<img src="Captura de pantalla 2025-12-02 103032.png" width="100%">
+*Análisis de tasa de renovación por tramos de edad y matriz de rendimiento.*
 
 ---
 
