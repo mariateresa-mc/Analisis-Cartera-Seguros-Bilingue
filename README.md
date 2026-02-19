@@ -9,20 +9,16 @@ Puedes descargar el archivo original para examinarlo en detalle:
 ---
 
 ## 🖼️ Capturas del Informe
+<img width="1442" height="782" alt="Captura de pantalla 2025-12-02 103032" src="https://github.com/user-attachments/assets/49d844cb-9d22-4222-90d2-e07919ee14af" />
 
-### 1. Resumen Ejecutivo (Executive Summary)
-<img src="Captura de pantalla 2026-02-19 105436.png" width="100%">
-*Enfoque en KPIs principales: Ingresos totales, Margen y Evolución mensual.*
 
-### 2. Análisis de Rentabilidad Geográfica
-<img src="Captura de pantalla 2026-02-19 105319.png" width="100%">
-*Distribución de ingresos por provincia y ranking de rentabilidad.*
 
-### 3. Detalle de Clientes y Renovaciones
-<img src="Captura de pantalla 2025-12-02 103032.png" width="100%">
-*Análisis de tasa de renovación por tramos de edad y matriz de rendimiento.*
 
----
+---<img width="1440" height="788" alt="Captura de pantalla 2026-02-19 105319" src="https://github.com/user-attachments/assets/a08c6c8e-0cb0-4dd0-acc4-a55a4daf4607" />
+
+
+<img width="1420" height="782" alt="Captura de pantalla 2026-02-19 105436" src="https://github.com/user-attachments/assets/526123f4-96d7-415d-87ab-74f2000a0d9a" />
+
 
 ## 🛠️ Características Técnicas
 * **Bilingüismo:** Implementación completa en Español e Inglés seleccionable por el usuario.
